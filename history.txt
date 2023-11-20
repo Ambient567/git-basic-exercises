@@ -1,0 +1,900 @@
+    1  sudo apt install code
+    2  sudo apt i code
+    3  sudo snap install vlc
+    4  sudo  snap  update
+    5  sudo apt update
+    6  sudo snap install vlc
+    7  sudo snap install --classic code
+    8  snap-store --quit
+    9  sudo snap install --classic code
+   10  sudo snap install vlc
+   11  apt-get install git
+   12  sudo apt-get install git
+   13  git checkout -b feature/redux-setup
+   14  npm install react-redux @reduxjs/toolkit
+   15  sudo apt install npm
+   16  npm install react-redux @reduxjs/toolkit
+   17  npm install -g n
+   18  node -v
+   19  npm install --save three
+   20  node -v
+   21  sudo apt install nodejs
+   22  npm install -g n
+   23  node -v
+   24  sudo apt purge nodejs
+   25  clear
+   26  nano .bashrc
+   27  node -v
+   28  npm install
+   29  install node
+   30  npm install -g npm
+   31  node -v
+   32  npm -v
+   33  npm install react-redux @reduxjs/toolkit
+   34  sudo apt install nodejs
+   35  node -v
+   36  npm install -g n
+   37  npm install --save three
+   38  node -v
+   39  npm install react-redux @reduxjs/toolkit
+   40  npm  install
+   41  git config --global user.name "Precious Nhlapho"
+   42  git config user.email "pnhlapho59@gmail.com"
+   43  git config --global user.email "pnhlapho59@gmail.com"
+   44  git config user.name "Precious Nhlapho"
+   45  npm install
+   46  npm install react-redux @reduxjs/toolkit
+   47  git status
+   48  git stash
+   49  git checkout -b feature/redux-setup
+   50  git stash pop
+   51  git status
+   52  npm start
+   53  git checkout develop
+   54  git pull
+   55  git checkout -b feature/connect_react_and_redux
+   56  npm install react-redux
+   57  npm install --save-dev @redux-devtools/core
+   58  npm install redux react-redux --save
+   59  npm install
+   60  npm install --save @types/uuid
+   61  npm start
+   62  git checkout develop
+   63  git pull
+   64  git checkout -b feature/bookstore_styling
+   65  git pull
+   66  git checkout -b  feature/connect_api
+   67  npm install redux-thunk --save
+   68  npm install axios
+   69  update packages
+   70  npm start
+   71  sh copy_github_board.sh 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 microverseinc curriculum-tools-copy-projects Ambient567 Space-Traveler-s-Hub 
+   72  bash copy_github_board.sh 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 microverseinc curriculum-tools-copy-projects Ambient567 Space-Traveler-s-Hub
+   73  sh copy_github_board.sh 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 microverseinc curriculum-tools-copy-projects Ambient567 Space-Traveler-s-Hub
+   74  sh copy_github_board.sh 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  microversei  curriculum-javascript  Ambient567  Space-Traveler-s-Hub
+   75  bash copy_github_board.sh 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  microversei  curriculum-javascript  Ambient567  Space-Traveler-s-Hub
+   76  init gitflow
+   77  git flow init
+   78  sudo apt-get install git-flow
+   79  git flow init
+   80  git push origin develop
+   81  bash copy_github_board.sh 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  microversei  curriculum-react-redux  Ambient567  Space-Traveler-s-Hub
+   82  bash copy_github_board.sh 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  microverseinc  curriculum-react-redux  Ambient567  Space-Traveler-s-Hub
+   83  bash copy_github_board.sh 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  microversei  curriculum-javascript  Ambient567  Space-Traveler-s-Hub
+   84  bash copy_github_board.sh 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  microverseinc curriculum-tools-copy-projects  Ambient567  Space-Traveler-s-Hub
+   85  sh copy_github_board.sh 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  microverseinc curriculum-tools-copy-projects  Ambient567  Space-Traveler-s-Hub
+   86  sh copy_github_board.sh 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  microversei  curriculum-react-redux  Ambient567  Space-Traveler-s-Hub
+   87  sh copy_github_board.sh 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  microversei  curriculum-group-project  Ambient567  Space-Traveler-s-Hub
+   88  npx create-react-app space-hub
+   89  cd space-hub
+   90  npm start
+   91  npm install
+   92  npm start
+   93  npm run build
+   94  start
+   95  cd space-hub
+   96  npm start
+   97  npm start
+   98  npm install react-redux
+   99  # NPM
+  100  npm install @reduxjs/toolkit
+  101  cd space-hub
+  102  npm start
+  103  npm i react-router
+  104  npm i --save redux-logger
+  105  npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x @babel/preset-env@7.x  @babel/preset-react@7.x
+  106  cd space-hub
+  107  npm start
+  108  npx create-react-app space-travelers-hub
+  109  git flow init
+  110  git push origin develop
+  111  git checkout -b develop/Fecth rockets
+  112  git checkout -b develop/Fecth_rockets
+  113  git checkout -b feature/Fecth_rockets
+  114  npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x @babel/preset-env@7.x  @babel/preset-react@7.x
+  115  npm install
+  116  npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x @babel/preset-env@7.x  @babel/preset-react@7.x
+  117  npm install @reduxjs/toolkit
+  118  npm i react-router
+  119  npm i --save redux-logger
+  120  npm start
+  121  npm install react-redux
+  122  npm i react-router-dom
+  123  git checkout -b feature/lists-render
+  124  git status
+  125  npm start
+  126  git checkout develop
+  127  npm install -D tailwindcss
+  128  npx tailwindcss init
+  129  npm start
+  130  git checkout develop
+  131  git pull
+  132  git stash
+  133  git checkout -b feature/book_cancel
+  134  git stash pop
+  135  npm i react-jsx
+  136  git branch
+  137  git checkout feature/book_cancel
+  138  git merge develop
+  139  npm install
+  140  npm start
+  141  git checkout develop
+  142  git pull
+  143  git checkout -b feature/dispaly_reserved_rockets
+  144  git checkout -b feature/switch_badges
+  145  npm start
+  146  git log
+  147  git reset --soft df892578820f26bf93dca2c4df115ff88c9a7405
+  148  git log
+  149  git checkout develop
+  150  git pull
+  151  git branch
+  152  git checkout -b feature/Finalise-hub
+  153  npm install --save-dev @testing-library/react jest @types/jest prettier
+  154  npm install --save-dev react-test-renderer
+  155  npm start
+  156  git checkout develop
+  157  git pull
+  158  git flow init
+  159  git push origin develop
+  160  git develop --set-upstream origin
+  161  git branch --set-upstream master origin
+  162  git branch --set-upstream  origin
+  163  git branch --set-upstream-to  origin
+  164  git branch --set-upstream-to master  origin
+  165  git branch --set-upstream master 
+  166  git branch --set-upstream-to master 
+  167  npx create-react-app math-magicians
+  168  npm install
+  169  git status
+  170  git stash
+  171  git checkout -b feature/setup
+  172  git stach pop
+  173  git stash pop
+  174  npm start
+  175  git status
+  176  npm i babel-eslint
+  177  npm i @babel/eslint-parser
+  178  npm start
+  179  git stash
+  180  git checkout develop
+  181  git pull
+  182  git --setupstream origin develop
+  183  git --set --upstream origin develop
+  184  git -set --upstream origin develop
+  185  git push --set-upstream origin develop
+  186  git pull
+  187  git checkout -b feature/components
+  188  git stash pop
+  189  npm start
+  190  npm install
+  191  $ rm -rf node_modules/
+  192  $ node_modules/.bin/eslint foo.js
+  193  $ rm -rf node_modules/
+  194  npm install eslint@4.14.0 babel-eslint@8.1.0
+  195  node_modules/.bin/eslint App.js
+  196  npm i eslint
+  197  npm start          npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x @babel/preset-env@7.x  @babel/preset-react@7.x
+  198  npm uninstall babel-eslint
+  199  npm install @babel/eslint-parser -D
+  200  eslint
+  201  npx eslint App.js
+  202  npx eslint index.js
+  203  pnx eslint
+  204  npx eslint
+  205  npx create-react-app math-app
+  206  git checkout -b feature/Calculator-component
+  207  git checkout develop
+  208  git stash
+  209  git checkout develop
+  210  git checkout feature/Calculator-component
+  211  git checkout develop
+  212  git checkout feature/Add-component
+  213  git checkout -b feature/Add-component
+  214  npm start          npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x @babel/preset-env@7.x  @babel/preset-react@7.x 
+  215  node -v
+  216  npm -v
+  217  sudo npm install -g n
+  218  npm install -g npm@9.5.0 to update!
+  219  sudo n stable
+  220  npm -v
+  221  node -v
+  222  npm start
+  223  npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x @babel/preset-env@7.x  @babel/preset-react@7.x
+  224  npm start
+  225  npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x  @babel/preset-react@7.x @babel/preset-react@7.x
+  226  npm i eslint
+  227  npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x  @babel/preset-react@7.x @babel/preset-react@7.x
+  228  node --v
+  229  node -v
+  230  npm install --legacy-peer-deps
+  231  npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x  @babel/preset-react@7.x @babel/preset-react@7.x
+  232  --force
+  233  npm install --save-dev eslint@7.x eslint-config-airbnb@18.x eslint-plugin-import@2.x eslint-plugin-jsx-a11y@6.x eslint-plugin-react@7.x eslint-plugin-react-hooks@4.x @babel/eslint-parser@7.x @babel/core@7.x  @babel/plugin-syntax-jsx@7.x  @babel/preset-react@7.x @babel/preset-react@7.x --force
+  234  git flow init
+  235  git --set-upstream origin develop
+  236  git push --set-upstream origin develop
+  237  git checkout -b feature/components
+  238  npm install --save --legacy-peer-deps
+  239  npm start
+  240  node -v
+  241  nvm uninstall 18.14.0
+  242  sudo apt-get remove nodejs
+  243  ls /etc/apt/sources.list.d
+  244  sudo apt-get update
+  245  node -v
+  246  sudo apt-get install nodejs
+  247  node -v
+  248  cd
+  249  cd /
+  250  cd usr
+  251  sudo rm -r bin/{node,npm,npx}
+  252  node -v
+  253  sudo apt-get remove nodejs
+  254  node -v
+  255  sudo apt-get remove npm
+  256  npm  -v
+  257  sudo apt-get update
+  258  node -v
+  259  sudo apt-get purge nodejs
+  260  node challenge.js
+  261  node test.js
+  262  node challenge.js
+  263  sudo apt install flatpak
+  264  flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+  265  flatpak install flathub com.github.alainm23.planner
+  266  sudo dpkg -i apm_planner*.deb
+  267  sudo apt install knotes
+  268  javac* java
+  269  javac *. java
+  270  javac *.java
+  271  java main
+  272  javac *.java
+  273  java main
+  274  java version
+  275  java -version
+  276  sudo apt install openjdk-8-jre-headless 
+  277  sudo apt-get install openjdk-8-jdk
+  278  javac *.java
+  279  java Main
+  280  javac *.java
+  281  java Main
+  282  javac *.java
+  283  java Main
+  284  javac *.java
+  285  java Main
+  286  javac *.java
+  287  java Main
+  288  javac *.java
+  289  java Main
+  290  javac *.java
+  291  java Main
+  292  javac *.java
+  293  java Main
+  294  javac *.java
+  295  java Main
+  296  javac *.java
+  297  java Main
+  298  javac *.java
+  299  java Main
+  300  javac *.java
+  301  java Main
+  302  javac *.java
+  303  java Main
+  304  javac *.java
+  305  java Main
+  306  javac *.java
+  307  java Main
+  308  javac *.java
+  309  java Main
+  310  javac *.java
+  311  java Main
+  312  javac *.java
+  313  java Main
+  314  javac *.java
+  315  java Main
+  316  javac *.java
+  317  java Main
+  318  javac *.java
+  319  java Main
+  320  javac *.java
+  321  java Main
+  322  javac *.java
+  323  java Main
+  324  javac *.java
+  325  java Main
+  326  javac *.java
+  327  java Main
+  328  javac *.java
+  329  java Main
+  330  javac *.java
+  331  java Main
+  332  javac *.java
+  333  java Main
+  334  javac *.java
+  335  java Main
+  336  javac *.java
+  337  java Main
+  338  javac *.java
+  339  java Main
+  340  javac *.java
+  341  java Main
+  342  javac *.java
+  343  java Main
+  344  javac *.java
+  345  java Main
+  346  javac *.java
+  347  java Main
+  348  java Main cd /home/precious/Documents/School/212/Practical1 ; /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /home/precious/.config/Code/User/workspaceStorage/af9c8823cf83e0b620cfd957b9679cf6/redhat.java/jdt_ws/Practical1_cbc167f2/bin Main 
+  349  javac *.java
+  350  java Main
+  351  sudo apt-get update
+  352  sudo apt-get install mariadb-server
+  353  sudo systemctl start mariadb
+  354  sudo systemctl status mariadb
+  355  sudo systemctl start mariadb.service
+  356  sudo mysql_secure_installation
+  357  sudo mariadb
+  358  sudo systemctl status mariadb
+  359  $ mysql -u root -p
+  360  mysql -u root -p
+  361  mysqldump -u root -p u18183973_bookshopsystem > bookshopsystem_dump.sql
+  362  mysql -u root -p
+  363  clear
+  364  mysql -u root -p cd /home/precious/Documents/School/212/Student_Files/Student\ Files ; /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /home/precious/.config/Code/User/workspaceStorage/2395713105b094e11cb308498c0b342e/redhat.java/jdt_ws/Student\ Files_d3508de0/bin App 
+  365  clear
+  366  sudo apt update
+  367  sudo apt install filezilla
+  368  filezilla
+  369  npm install @vue/cli
+  370  run vue
+  371  vue create p2
+  372  global installation: npm install @vue/cli
+  373  vue create p2
+  374  npm install @vue/cli
+  375  vue create p2
+  376  sudo snap install vue
+  377  vue create p2
+  378  npm install @vue/cli
+  379  vue create p2
+  380  run vue
+  381  vue
+  382  sudo snap remove vue
+  383  npm install -g @vue/cli
+  384  sudo npm install -g @vue/cli
+  385  sudo vue create p2
+  386  cd p2
+  387  npm run serve
+  388  sudo vue create p2
+  389  cd p2
+  390  npm run serve
+  391  sudo vue create p2
+  392  sudo vue create P2
+  393  vue create p2
+  394  cd p2
+  395  npm run serve
+  396  sudo snap remove vue
+  397  sudo npm install  @vue/cli
+  398  vue create p2
+  399  git config --global user.name "Precious Nhlapho"
+  400  git config user.name "Precious Nhlapho"
+  401  git config --global user.email "pnhlapho59@gmail.com"
+  402  vue create p2
+  403  vue create my-p2
+  404  cd my-p2
+  405  npm run serve
+  406  [200~npm install --save @fortawesome/fontawesome-free vue-fontawesome
+  407  npm install --save @fortawesome/fontawesome-free vue-fontawesome
+  408  cd p2
+  409  npm run serve
+  410  cd p2 cd /home/precious/Documents/School/212/Student_Files_rkEf3jX/Student\ Files ; /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /home/precious/.config/Code/User/workspaceStorage/df7a9ca99a73da8ffb6c6ee414030e3f/redhat.java/jdt_ws/Student\ Files_17ffdf48/bin App 
+  411  npm run serve cd /home/precious/Documents/School/212/Student_Files_rkEf3jX/Student\ Files ; /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /home/precious/.config/Code/User/workspaceStorage/df7a9ca99a73da8ffb6c6ee414030e3f/redhat.java/jdt_ws/Student\ Files_17ffdf48/bin App 
+  412  javac *.java && java Main
+  413  javac *.java && java App
+  414  clear
+  415  javac *.java && java App
+  416  clear && javac *.java && java App 
+  417  sudo add-apt-repository ppa:editix-team/editix
+  418  sudo apt-get update
+  419  sudo apt-get install editix
+  420  sudo add-apt-repository ppa:editix-team/editix
+  421  sudo add-apt-repository --login ppa:editix-team/editix
+  422  clear && javac *.java && java App 
+  423  clear && javac *.java && java Main
+  424  sudo apt-get update
+  425  sudo apt-get install ant
+  426  ant -version
+  427  sudo add-apt-repository ppa:editix-team/editix
+  428  tar -xvzf editix2014sp1.tar.gz
+  429  sudo ./install.sh
+  430  cd bin
+  431  chmod +x xampp-linux-x64-7.3.27-1-installer.run
+  432  sudo ./xampp-linux-x64-<version>.run
+  433  sudo ./xampp-linux-x64-7.3.27-1.run
+  434  sudo ./xampp-linux-x64-7.3.27-1-installer.run
+  435  sudo /opt/lampp/lampp start
+  436  ls -l
+  437  sudo chown -R precious:precious /opt/lampp
+  438  sudo /opt/lampp/lampp start
+  439  sudo /opt/lampp/lampp start
+  440  sudo ./xampp start
+  441  sudo ./xampp stop
+  442  vue create p3
+  443  cd p3
+  444  npm run serve
+  445  sudo ./xampp start
+  446  sudo ./xampp stop
+  447  sudo ./xampp start
+  448  sudo ./xampp stop
+  449  sudo ./xampp start
+  450  sudo ./xampp stop
+  451  sudo /opt/lampp/lampp start
+  452  sudo ./xampp start
+  453  sudo ./xampp stop
+  454  sudo /opt/lampp/lampp start
+  455  sudo ./xampp stop
+  456  > openssl pkcs12 -export -in cert.pem -inkey "privateKey.pem" -certfile cert.pem -out myProject_keyAndCertBundle.p12
+  457  		
+  458  sudo ./xampp start
+  459  sudo ./xampp stop
+  460  sudo ./xampp start
+  461  sudo ./xampp stop
+  462  sudo ./xampp start
+  463  sudo ./xampp stop
+  464  sudo ./xampp start
+  465  sudo ./xampp stop
+  466  sudo /opt/lampp/lampp start
+  467  sudo ./xampp stop
+  468  sudo /opt/lampp/lampp stop
+  469  sudo /opt/lampp/lampp start
+  470  sudo ./xampp start
+  471  sudo ./xampp stop
+  472  sudo /opt/lampp/lampp start
+  473  sudo /opt/lampp/lampp stop
+  474  sudo /opt/lampp/lampp start
+  475  sudo apt-get install net-tools
+  476  sudo /opt/lampp/lampp stop
+  477  sudo /opt/lampp/lampp start
+  478  sudo /opt/lampp/lampp stop
+  479  sudo systemctl status mysql
+  480  sudo systemctl stop mysql
+  481  sudo mysqld_safe --skip-grant-tables &
+  482  /
+  483  vue create p5
+  484  . code
+  485  code .
+  486  npm run serve
+  487  sudo /opt/lampp/lampp start
+  488  sudo /opt/lampp/lampp stop
+  489  sudo apt update && sudo apt upgrade
+  490  sudo apt install mariadb-server
+  491  sudo apt install mysql-workbench
+  492  mysql-workbench
+  493  sudo apt install mysql-workbench
+  494  sudo apt install mysql-workbench-community
+  495  snap install mysql-workbench-community
+  496  mysql-workbench
+  497  mysql -u root -p
+  498  mysql -u root -p u18183973_sakila sakila-data(1).sql
+  499  mysql -u root -p u18183973_sakila sakila-data.sql
+  500  mysql -u root -p u18183973_sakila < sakila-data.sql
+  501  sudo mysql -u root
+  502  NO
+  503  YES
+  504  UPDATE mysql.user SET authentication_string = PASSWORD('new_password') WHERE User = 'root';
+  505  sudo mysql -u root
+  506  mysql -u root -p
+  507  mysql -u root -p u18183973_sakila < sakila-data.sql
+  508  mysql -u root -p u18183973_sakila < u18183973_sakila-data.sql
+  509  mysql -u root -p
+  510  mysql -u root -p u18183973_sakila < u18183973_sakila-data.sql
+  511  mysql -u root -p u18183973_sakila < sakila-shema.sql
+  512  mysql -u root -p u18183973_sakila < sakila-schema.sql
+  513  mysql -u root -p u18183973_sakila < sakila-data.sql
+  514  mysql -u root -p
+  515  mysql -u root -p u18183973_sakila < sakila-data.sql
+  516  mysql -u root -p u18183973_sakila < sakila-schema.sql
+  517  mysql -u root -p u18183973_sakila < sakila-data.sql
+  518  mysql -u root -p
+  519  mysql -u root -p u18183973_sakila < sakila-data.sql
+  520  mysql -u root -p u18183973_sakila < sakila-schema.sql
+  521  mysql -u root -p u18183973_sakila < sakila-data.sql
+  522  mysql -u root -p
+  523  sudo /opt/lampp/lampp start
+  524  mysql -u root -p
+  525  yes
+  526  mysql -u root -p
+  527  sudo /opt/lampp/lampp stop
+  528  mysql -u root -p
+  529  sudo mysqld_safe --skip-grant-tables &
+  530  UPDATE mysql.user SET authentication_string = PASSWORD('new_password') WHERE User = 'root';
+  531  sudo mysql -u root
+  532  sudo service mysql stop
+  533  sudo mysqld_safe --skip-grant-tables &
+  534  sudo mysql -u root
+  535  sudo service mysql stop
+  536  sudo service mysql start
+  537  systemctl status mariadb.service
+  538  sudo service mysql stop
+  539  sudo mysqld_safe --skip-grant-tables &
+  540  sudo mysql -u root
+  541  sudo mysqld_safe --skip-grant-tables &
+  542  sudo mysql -u root
+  543  sudo service mysql stop
+  544  sudo mysqld_safe --skip-grant-tables &
+  545  sudo mqsql -u root
+  546  sudo service mysql stop
+  547  sudo systemctl stop mysql
+  548  sudo mysqld_safe --skip-grant-tables &
+  549  mysql -u root
+  550  sudo service mysql stop
+  551  sudo systemctl stop mysql
+  552  sudo mysqld_safe --skip-grant-tables &
+  553  mysql -u root
+  554  sudo mysqld_safe --skip-grant-tables &
+  555  mysql -u root --protocol=tcp
+  556  sudo service mysql stop
+  557  mysql -u root -p
+  558  mysql -u root
+  559  sudo service mysql start
+  560  mysql -u root -p
+  561  sudo service mysql stop
+  562  sudo service mysql start
+  563  mysql -u root -p
+  564  clear
+  565  sudo apt-get remove --purge mysql-server mysql-client mysql-common
+  566  sudo rm -rf /etc/mysql /var/lib/mysql
+  567  sudo apt-get update
+  568  sudo apt-get install mysql-server mysql-client
+  569  sudo mysql_secure_installation
+  570  mysql -u root -p
+  571  sudo mysqld_safe --skip-grant-tables &
+  572  mysql -u root
+  573  sudo apt-get remove --purge mysql-server mysql-client mysql-common
+  574  sudo rm -rf /etc/mysql /var/lib/mysql
+  575  sudo apt-get update
+  576  sudo apt-get install mysql-server mysql-client
+  577  sudo mysql_secure_installation
+  578  sudo apt install lamp-server^
+  579  sudo apt install phpmyadmin
+  580  sudo nano /etc/apache2/apache2.conf
+  581  sudo systemctl restart apache2
+  582  sudo mysql -u root -p
+  583  mysql -u root -p u18183973_sakila < u18183973_sakila.sql
+  584  mysql -u root
+  585  sudo  mysql -u root -p u18183973_sakila < u18183973_sakila.sql
+  586  sudo  mysql -u root -p sys < u18183973_sakila.sql
+  587  sudo  mysql -u root -p u18183973_sakila < sakila-data.sql
+  588  sudo mysql -u root -p
+  589  sudo mysqldump -u root -p u18183973_sakila > u18183973_sakila.sql
+  590  sudo mysqldump -u root -p u18183973_sakila > u18183973-sakila.sql
+  591  sudo mysql -u root -p
+  592  sudo service mysql start
+  593  sudo mysql -u root -p
+  594  sudo service mysql stop
+  595  sudo --skip-grant-tables
+  596  sudo mysqld_safe --skip-grant-tables &
+  597  mysql -u root
+  598  sudo chown mysql:mysql /var/run/mysqld
+  599  sudo mysqld_safe --skip-grant-tables &
+  600  mysql -u root
+  601  sudo service mysql stop
+  602  sudo mysql -u root
+  603  sudo service mysql start
+  604  systemctl status mysql.service
+  605  journalctl -xeu mysql.service
+  606  sudo less /var/log/mysql/error.log
+  607  java -jar prac04.jar
+  608  sudo service mysql start
+  609  mysql -u root -p
+  610  sudo mysql -u root -p
+  611  java -jar prac04.jar
+  612  mvn exec:java -Dexec.mainClass="za.ac.up.cs.cos221.App"
+  613  mysql -u root -p u18183973_sakila < u21669831_sakila_dump.sql
+  614  sudo mysql -u root -p u18183973_sakila < u21669831_sakila_dump.sql
+  615  sudo mysql -u root -p u18183973_sakila < u04868286_sakila.sql
+  616  sudo mysql -u root -p u18183973_sakila < u18183973sakila.sql
+  617  sudo mysql -u root -p u18183973_sakila < u18183973-sakila.sql
+  618  mysql -u root -p u18183973_sakila < sakila-schema.sql
+  619  sudo mysql -u root -p u18183973_sakila < sakila-schema.sql
+  620  sudo mysql -u root -p u18183973_sakila < sakila-data.sql
+  621  sudo mysql -u root -p
+  622  sudo apt-get remove phpmyadmin
+  623  sudo rm -rf /etc/phpmyadmin
+  624  sudo rm -rf /usr/share/phpmyadmin
+  625  sudo rm /etc/apache2/conf-available/phpmyadmin.conf
+  626  sudo a2disconf phpmyadmin.conf
+  627  sudo apt-get install phpmyadmin
+  628  mvn exec:java -Dexec.mainClass="za.ac.up.cs.cos221.App"
+  629  sudo service mysql start
+  630  mvn exec:java -Dexec.mainClass="za.ac.up.cs.cos221.App"
+  631  mvn install
+  632  mvn exec:java -Dexec.mainClass="za.ac.up.cs.cos221.App"
+  633  sudo mysql -u root -p
+  634  mysql -u root -p u18183973_sakila
+  635  sudo mysql -u root -p u18183973_sakila
+  636  sudo service mysql status
+  637  sudo lsof -i -P -n | grep LISTEN
+  638  mvn exec:java -Dexec.mainClass="za.ac.up.cs.cos221.App"
+  639  sudo apt-get remove phpmyadmin
+  640  sudo rm -rf /etc/phpmyadmin
+  641  sudo rm -rf /usr/share/phpmyadmin
+  642  sudo service mysql status
+  643  sudo service mysql stop
+  644  sudo service mysql status
+  645  javac Main.java Graph.java
+  646  java Main
+  647  clear
+  648  javac Main.java Graph.java
+  649  java Main
+  650  npm run serve
+  651  npm run serve
+  652  start
+  653  sudo /opt/lampp/lampp start
+  654  sudo service mysql status
+  655  sudo service mysql stop
+  656  mysql workbench
+  657  sudo mysql workbench
+  658  sudo service mysql start
+  659  sudo mysql -u root -p
+  660  mysql -u root -p -h localhost -D phpmyadmin
+  661  sudo mysql -u root -p -h localhost -D phpmyadmin
+  662  sudo apt update
+  663  sudo apt install virtualbox
+  664  sudo apt install phpmyadmin
+  665  sudo apt remove virtualbox
+  666  sudo apt purge virtualbox
+  667  sudo apt autoremove
+  668  sudo apt remove apache2
+  669  sudo apt purge  apache2
+  670  sudo apt remove mariadb-server
+  671  sudo apt remove mysql-server
+  672  sudo apt purge mysql-server
+  673  sudo apt remove mysql-workbench
+  674  sudo apt autoremove
+  675  sudo systemctl restart apache2
+  676  sudo apt update
+  677  sudo apt install lamp-server^
+  678  sudo apt install phpmyadmin
+  679  sudo apt remove phpmyadmin
+  680  sudo apt purge phpmyadmin
+  681  sudo apt autoremove
+  682  sudo systemctl restart apache2
+  683  sudo apt update
+  684  sudo apt upgrade
+  685  sudo apt install phpmyadmin
+  686  sudo systemctl restart apache2
+  687  sudo phpenmod mbstring
+  688  sudo systemctl restart apache2
+  689  ls
+  690  sudo uninstall
+  691  sudo systemctl start apache2
+  692  sudo systemctl status apache2
+  693  sudo opt/lampp start
+  694  sudo /opt/lampp/lampp start
+  695  sudo systemctl stop apache2
+  696  sudo /opt/lampp/lampp stop
+  697  sudo /opt/lampp/lampp start
+  698  sudo /opt/lampp/lampp stop
+  699  [200~sudo rm -rf ~/.config/xampp
+  700  ~sudo rm -rf ~/.config/xampp
+  701  sudo rm -rf ~/.config/xampp
+  702  sudo rm /usr/share/applications/xampp-control-panel.desktop
+  703  sudo rm /usr/share/applications/xampp-htdocs.desktop
+  704  sudo rm /usr/share/applications/xampp-php.desktop
+  705  sudo /opt/lampp/lampp stop
+  706  sudo service mysql
+  707  sudo service mysql stop
+  708  sudo service mysql status
+  709  cd downloads
+  710  ls
+  711  chmod xampp-linux-x64.8
+  712  chmod xampp-linux-x64.8.2.4.0-installer.run
+  713  sudo chmod xampp-linux-x64.8.2.4.0-installer.run
+  714  sudo chmod +x xampp-linux-x64.8.2.4.0-installer.run
+  715  sudo chmod +x xampp-linux-x64-8.2.4-0-installer.run
+  716  sudo ./xampp-linux-x64-8.2.4-0-installer.run
+  717  sudo /opt/lampp/lampp stop
+  718  sudo /opt/lampp/lampp start
+  719  sudo /opt/lampp/lampp stop
+  720  npm run serve
+  721  sudo /opt/lampp/lampp start
+  722  sudo /opt/lampp/lampp stop
+  723  sudo /opt/lampp/lampp start
+  724  sudo /opt/lampp/lampp stop
+  725  sudo /opt/lampp/lampp start
+  726  sudo /opt/lampp/lampp stop
+  727  sudo service mysql stop
+  728  sudo /opt/lampp/lampp start
+  729  sudo service apache2 stop
+  730  sudo /opt/lampp/lampp start
+  731  sudo service apache2 stop
+  732  sudo /opt/lampp/lampp stop
+  733  sudo /opt/lampp/lampp start
+  734  node server.js
+  735  node server.js
+  736  node server.js
+  737  sudo /opt/lampp/lampp stop
+  738  sudo service apache2 stop
+  739  sudo /opt/lampp/lampp start
+  740  sudo service apache2 stop
+  741  sudo /opt/lampp/lampp start
+  742  node server.js
+  743  npm install -g @ionic/cli
+  744  npm install -g @ionic/cli
+  745  sudo npm install -g @ionic/cli
+  746  npm install -g cordova
+  747  sudo npm install -g cordova
+  748  ionic start PA5
+  749  cd ./PA5
+  750  ionic serve
+  751  npm install -g @ionic/cli
+  752  sudo npm install -g @ionic/cli
+  753  ionic start carsApp blank
+  754  sudo /opt/lampp/lampp start
+  755  sudo service apache2 stop
+  756  sudo /opt/lampp/lampp start
+  757  vue create my-project
+  758  npm install axios
+  759  cp -r Project my-project
+  760  npm run serve
+  761  sudo /opt/lampp/lampp start
+  762  sudo service apache2 stop
+  763  sudo /opt/lampp/lampp start
+  764  sudo service apache2 stop
+  765  sudo /opt/lampp/lampp start
+  766  sudo service apache2 stop
+  767  sudo /opt/lampp/lampp start
+  768  sudo /opt/lampp/lampp stop
+  769  sudo /opt/lampp/lampp start
+  770  sudo service apache2 stop
+  771  sudo /opt/lampp/lampp start
+  772  chmod u+x editix.sh
+  773  ./editix.sh
+  774  chmod u+x editix.sh
+  775  ./editix.sh
+  776  chmod u+x editix.sh
+  777  ./editix.sh
+  778  chmod u+x editix.sh
+  779  ./editix.sh
+  780  chmod u+x editix.sh
+  781  ./editix.sh
+  782  chmod u+x editix.sh
+  783  ./editix.sh
+  784  export FOP_HOME=/home/precious/Downloads~/to/apache-fop-directory
+  785  source ~/.bashrc
+  786  export PATH=$PATH:$FOP_HOME
+  787  source ~/.bashrc
+  788  fop -version
+  789  sudo fop -version
+  790  chmod u+x editix.sh
+  791  ./editix.sh
+  792  chmod u+x editix.sh
+  793  ./editix.sh
+  794  chmod u+x editix.sh
+  795  ./editix.sh
+  796  chmod u+x editix.sh
+  797  ./editix.sh
+  798  chmod u+x editix.sh
+  799  ./editix.sh
+  800  chmod u+x editix.sh
+  801  ./editix.sh
+  802  chmod u+x editix.sh
+  803  ./editix.sh
+  804  chmod u+x editix.sh
+  805  ./editix.sh
+  806  sudo apt install qbittorrent
+  807  python -m SimpleHTTPServer 8000
+  808  sudo python -m SimpleHTTPServer 8000
+  809  sudo apt install python3
+  810  python3 --version
+  811  python3 -m http.server
+  812  npm install -g http-server
+  813  git clone https://github.com/aframevr/aframe.git  # Clone the repository.
+  814  cd aframe && npm install  # Install dependencies.
+  815  npm start  # Start the local development server.
+  816  npm start
+  817  sudo /opt/lampp/lampp start
+  818  sudo service apache2 stop
+  819  sudo /opt/lampp/lampp start
+  820  tunnel
+  821  tunnel.setup | sudo bash
+  822  tunnel
+  823  tunnel config
+  824  sudo apt update
+  825  sudo apt install python3.9
+  826  sudo apt install python3-pip
+  827  sudo apt install python3.9
+  828  sudo add-apt-repository ppa:deadsnakes/ppa
+  829  sudo apt install software-properties-common
+  830  sudo apt update
+  831  sudo apt install python3.9
+  832  python3.9 --version
+  833  sudo apt install python3-pip
+  834  pip3 --version
+  835  python3 winning.py
+  836  /bin/python3 /home/precious/Desktop/UMUZi/bootcamp/winning.py
+  837  ls /
+  838  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-764-contentitem-python/task2.py
+  839  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-756-contentitem-python/task1.py
+  840  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-759-contentitem-python/task4.py
+  841  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-760-contentitem-python/task3.py
+  842  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-763-contentitem-python/task5.py
+  843  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-765-contentitem-python/task7.py
+  844  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-758-contentitem-python/task6.py
+  845  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-762-contentitem-python/task8.py
+  846  clear
+  847  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-762-contentitem-python/task8.py
+  848  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-761-contentitem-python/task9.py
+  849  /bin/python3 /home/precious/Desktop/UMUZi/Precious-Nhlapho-754-contentitem-python/task10.py
+  850  git-basic-exercises
+  851  mkdir git-basic-exercises
+  852  cd git-basic-exercises
+  853  ls -a
+  854  git init
+  855  ls -a
+  856  git status
+  857  touch README.md
+  858  ls -a
+  859  git status
+  860  git log
+  861  git add 
+  862  git add .
+  863  git status
+  864  git commit -m "initial commit"
+  865  git status
+  866  git log
+  867  q
+  868  nano README.md
+  869  git status
+  870  cat README.md
+  871  git commit -m "second commit"
+  872  git add
+  873  git add .
+  874  git commit -m "second commit"
+  875  nano README.md
+  876  git add .
+  877  git commit -m "third commit"
+  878  git log
+  879  git checkout
+  880  git checkout 62780d0218f1fa19c3d5e59e7abf04edcfca0ce5
+  881  cat README.md
+  882  git checkout main
+  883  git checkout master
+  884  cat README.md
+  885  git -b milkshake-flavours
+  886  git branch milkshake-flavours
+  887  git branch
+  888  git checkou milkshake-flavours
+  889  git checkout milkshake-flavours
+  890  nano milkshakes.md
+  891  git status
+  892  fit add .
+  893  git add .
+  894  git commit "added initial flavours"
+  895  git commit -m "added initial flavours"
+  896  git checkout master
+  897  git branch history
+  898  git checkout history
+  899  git log
+  900  history > history.txt
